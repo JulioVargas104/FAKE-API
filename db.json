@@ -1,10 +1,75 @@
 {
     "peliculas": [
-      {
-        "id": "1",
-        "titulo": "Spider-man: Lejos de Casa",
-        "imagen": "https://sm.ign.com/t/ign_latam/screenshot/default/301042548-2188372304658465-2536931955639352667-n_fy72.960.jpg",
-        "video": "https://www.youtube.com/watch?v=SkmRT3M4Vx4"
-      }
-    ]
+  {
+    "id": "1",
+    "titulo": "Spider-man: Lejos de Casa",
+    "imagen": "https://sm.ign.com/t/ign_latam/screenshot/default/301042548-2188372304658465-2536931955639352667-n_fy72.960.jpg",
+    "video": "https://www.youtube.com/watch?v=SkmRT3M4Vx4"
+  },
+  {
+    "id": "2",
+    "titulo": "Spider-man: Lejos de Casa",
+    "imagen": "https://sm.ign.com/t/ign_latam/screenshot/default/301042548-2188372304658465-2536931955639352667-n_fy72.960.jpg",
+    "video": "https://www.youtube.com/watch?v=SkmRT3M4Vx4",
+    "cartelera": "CIENCIA FICCIÓN",
+    "sinopsis": "Tras descubrirse la identidad secreta de Peter Parker como Spider-Man, la vida del joven se vuelve una locura. Peter le pide ayuda al Doctor Strange para recuperar su vida, pero algo sale mal y provoca una fractura en el multiverso."
+  },
+  {
+    "id": "3",
+    "titulo": "Al filo del Mañana",
+    "imagen": "https://pics.filmaffinity.com/edge_of_tomorrow-632023834-large.jpg",
+    "video": "https://www.youtube.com/watch?v=Qd0_qYIhMZA",
+    "cartelera": "ACCIÓN",
+    "sinopsis": "William Cage, un soldado muerto en acción mientras combatía contra unos alienígenas que invadieron la Tierra, entra en un bucle temporal en el cual revive constantemente y vuelve a intentar salvar el planeta, mejorando sus habilidades, conociendo mejor al enemigo, y acercándose cada vez más a la victoria. Sin embargo, el tiempo corre en su contra."
+  },
+  {
+    "id": "4",
+    "titulo": "IT",
+    "imagen": "https://m.media-amazon.com/images/M/MV5BZDFhODExOTctNTFkZS00NjE1LWE2MWMtY2Q1ZThhMGY5NjJkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "video": "https://www.youtube.com/watch?v=_oBZ_zTz0Nw",
+    "cartelera": "TERROR",
+    "sinopsis": "Varios niños de una pequeña ciudad del estado de Maine se alían para combatir a una entidad diabólica que adopta la forma de un payaso y desde hace mucho tiempo emerge cada 27 años para saciarse de sangre infantil."
+  },
+  {
+    "id": "5",
+    "titulo": "La caída de la casa blanca",
+    "imagen": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/white-house-down.jpg",
+    "video": "https://www.youtube.com/watch?v=KwRFid4zuZo",
+    "cartelera": "ACCIÓN",
+    "sinopsis": "El policía del Capitolio John Cale debe pasar una entrevista para entrar en el Servicio Secreto. Sin saber el resultado, lleva a su hija a visitar la Casa Blanca, pero, durante el recorrido, un grupo paramilitar asalta el edificio."
+  },
+  {
+    "id": "6",
+    "titulo": "Transformers: El despertar de las bestias",
+    "imagen": "https://es.web.img3.acsta.net/c_310_420/pictures/23/04/27/15/42/3990293.jpg",
+    "video": "https://www.youtube.com/watch?v=Db5SvKPJc-w",
+    "cartelera": "CIENCIA FICCIÓN",
+    "sinopsis": "Durante la década de 1990, los Maximals, Predacons y Terrorcons se unen a la batalla existente en la Tierra entre Autobots y Decepticons."
+  },
+  {
+    "id": "7",
+    "titulo": "Men In Black: International",
+    "imagen": "https://es.web.img2.acsta.net/c_310_420/pictures/19/04/25/14/18/1589482.jpg",
+    "video": "https://www.youtube.com/watch?v=ykcw1ZYKEWE",
+    "cartelera": "CIENCIA FICCIÓN",
+    "sinopsis": "Los hombres de negro son el secreto mejor guardado del universo: su misión es monitorear a los extraterrestres desde la Tierra."
+  },
+  {
+    "id": "8",
+    "titulo": "Kingsman: El círculo dorado",
+    "imagen": "https://perdidaenmismundos.wordpress.com/wp-content/uploads/2021/06/kingsman-the-golden-circle-8.jpg",
+    "video": "https://www.youtube.com/watch?v=x050XvclsNE",
+    "cartelera": "CIENCIA FICCIÓN",
+    "sinopsis": "Cuando el cuartel general de la agencia británica Kingsman es destruido, los espías unen sus fuerzas con una organización aliada estadounidense. Su objetivo es colaborar para intentar derrotar a su enemigo común y salvar al mundo."
+  },
+  {
+    "id": "9",
+    "titulo": "Avengers: Infinity War",
+    "imagen": "https://i5.walmartimages.com/seo/Avengers-Infinity-War-Movie-Poster-Print-Regular-Style-Size-24-X-36_65e23347-2ccc-4581-9700-581e0ea9c3a8.a808f8889bfa9e368659fbefc5e5dda4.jpeg",
+    "video": "https://www.youtube.com/watch?v=VhCUoIuC5zs",
+    "cartelera": "CIENCIA FICCIÓN",
+    "sinopsis": "Los Vengadores comprenden por fin lo frágil que es la realidad y los sacrificios que hay que hacer para mantenerla, en una historia de amistad, trabajo en equipo y sobre dejar a un lado las diferencias para superar un obstáculo imposible."
+  }
+]
+
   }
